@@ -6,8 +6,7 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/239158873171165184.png"/>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=cb5ad3)](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&redirect=true)
 
 <div>
   <a href="https://github.com/MGS-BR">
