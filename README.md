@@ -6,10 +6,13 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/239158873171165184.png"/>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=cb5ad3)](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&redirect=true)
+
 <div>
   <a href="https://github.com/MGS-BR">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MGS-BR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS-BR&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MGS-BR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS-BR&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 </div>
@@ -29,7 +32,7 @@
   <img src="https://top.gg/api/widget/owner/783035541611610113.svg">
 </a>
 </div>
-
+  
 <p>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MGS-BR&color=grey">
