@@ -1,6 +1,5 @@
 ## Tudo bom?
 
-- 🌱 Estudando C#
 - 📫 Contato: 21pedrohds@gmail.com
 - 💎 Discord: M G S#5420
 
