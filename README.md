@@ -26,7 +26,7 @@
 
 <div>
   <div align="center">
-    <a href="https://top.gg/bot/783035541611610113">
+    <a href="https://top.gg/bot/783035541611610113" target="_blank">
   <img src="https://top.gg/api/widget/owner/783035541611610113.svg">
 </a>
 </div>
