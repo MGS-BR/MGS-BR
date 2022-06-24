@@ -7,12 +7,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&redirect=true)
 
-<div>
-  <a href="https://github.com/MGS-BR">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MGS-BR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS-BR&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MGS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +16,12 @@
   <img align="center" alt="MGS-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<div>
+  <a href="https://github.com/MGS-BR">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MGS-BR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS-BR&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
 ![Snake animation](https://github.com/MGS-BR/MGS-BR/blob/output/github-contribution-grid-snake.svg)
 
 <div>
