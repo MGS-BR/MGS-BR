@@ -5,8 +5,6 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/239158873171165184.png"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qmuo7tblvl1t5syyc5bn4d7oz&redirect=true)
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MGS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
