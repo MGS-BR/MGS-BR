@@ -1,9 +1,6 @@
 ## Tudo bom?
 
 - 📫 Contato: 21pedrohds@gmail.com
-- 💎 Discord: HDS#5420
-
-<img src="https://discord.c99.nl/widget/theme-3/239158873171165184.png"/>
 
 </div>
 <div style="display: inline_block"><br>
