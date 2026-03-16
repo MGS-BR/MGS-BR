@@ -1,4 +1,4 @@
-## Tudo bom?
+## Bom dia!
 
 - 📫 Contato: 21pedrohds@gmail.com
 
@@ -13,10 +13,9 @@
 
 </br>
 
-<div>
+<div align="center">
   <a href="https://github.com/MGS-BR">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MGS-BR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGS-BR&layout=compact&langs_count=7&theme=github_dark"/>
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=MGS-BR&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
 </div>
   
 ![Snake animation](https://github.com/MGS-BR/MGS-BR/blob/output/github-contribution-grid-snake.svg)
