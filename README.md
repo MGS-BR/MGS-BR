@@ -14,8 +14,8 @@
 │  $ whoami                                                    │
 │                                                              │
 │  ┌────────────────────────────────────────────────────────┐  │
-│  │  Pedro Henrique · Software Developer · Brazil          |  |
-|  |  System Analysis and Development · Fatec Sorocaba      |  |
+│  │  Pedro Henrique · Software Developer · Brazil          │  │
+│  │  System Analysis and Development · Fatec Sorocaba      │  │
 │  │  Python Developer · Automation & Desktop Apps          │  │
 │  │  Passionate about technology, UI and performance       │  │
 │  └────────────────────────────────────────────────────────┘  │
