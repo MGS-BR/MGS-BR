@@ -22,9 +22,11 @@
 │                                                              │
 │  $ cat stack.conf                                            │
 │                                                              │
-│  [languages]      Python · JavaScript · SQL · C              │
+│  [languages]      Python · JavaScript · Java · SQL           │
+│                   C · C#                                     │
 │  [backend]        Flask · FastAPI · SQLite                   │
 │  [automation]     PyAutoGUI · Selenium · Requests            │
+│                   Microsoft Power Automate                   │
 │  [desktop]        Tkinter · CustomTkinter                    │
 │  [tools]          Git · GitHub · Linux                       │
 │  [learning]       Data Analysis · APIs · Cloud               │
