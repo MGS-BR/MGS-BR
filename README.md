@@ -17,13 +17,13 @@
 │  │  Pedro Henrique · Software Developer · Brazil          │  │
 │  │  System Analysis and Development · Fatec Sorocaba      │  │
 │  │  Python Developer · Automation & Desktop Apps          │  │
-│  │  Passionate about technology, UI and performance       │  │
+│  │  Building automation tools that save people time       │  │
 │  └────────────────────────────────────────────────────────┘  │
 │                                                              │
 │  $ cat stack.conf                                            │
 │                                                              │
-│  [languages]      Python · JavaScript · Java · SQL           │
-│                   C · C#                                     │
+│  [languages]      Python · JavaScript · Java · C · C#        │
+│  [database]       MySQL · Oracle · SQLite                    │
 │  [backend]        Flask · FastAPI · SQLite                   │
 │  [automation]     PyAutoGUI · Selenium · Requests            │
 │                   Microsoft Power Automate                   │
