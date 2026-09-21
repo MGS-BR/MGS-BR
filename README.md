@@ -24,7 +24,7 @@
 │                                                              │
 │  [languages]      Python · JavaScript · Java · C · C#        │
 │  [database]       MySQL · Oracle · SQLite                    │
-│  [backend]        Flask · FastAPI · SQLite                   │
+│  [backend]        Flask · FastAPI                            │
 │  [automation]     PyAutoGUI · Selenium · Requests            │
 │                   Microsoft Power Automate                   │
 │  [desktop]        Tkinter · CustomTkinter                    │
